@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi Biodata</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="judul">BIODATA</string>
+    <string name="foto_data_2">foto data 2</string>
+    <string name="alamat">alamat</string>
+    <string name="telepon">telepon</string>
+    <string name="email">email</string>
+
+    <string name="foto_data_3">foto data 3</string>
+    <string name="foto_data_1">foto data 1</string>
+    <string name="nim">NIM</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="hobi">Hobi</string>
+    <string name="nama">Nama</string>
+    <string name="isiEmail">Terima kasih telah menggunakan aplikasi kami</string>
+    <string name="subEmail">Terima Kasih</string>
+</resources>
